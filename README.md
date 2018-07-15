@@ -4,7 +4,7 @@ This is an open source community plan for the Codecademy Community Facebook grou
 
 **Introduction**
 
-The Codecademy Facebook group is a community for people who have found their way to the Codecademy website to learn software technologies for whatever purpose.
+The Codecademy Community Facebook group is a community for people who have found their way to the Codecademy website to learn software technologies for whatever purpose.
 
 ## TOC
 - Community Plan    %aa001

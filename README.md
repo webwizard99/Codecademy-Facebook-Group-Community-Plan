@@ -6,14 +6,14 @@ This is an open source community plan for the Codecademy Facebook group
 
 The Codecademy Facebook group is a community for people who have found their way to the Codecademy website to learn software technologies for whatever purpose.
 
-##TOC
+## TOC
 - Community Plan    %aa001
 - Considerations    %aa002
 - Documents         %aa003
 - Moderators        %aa004
 
 -------------------------------
-##Community Plan    %aa001
+## Community Plan    %aa001
 
 This is for learners of all skill sets—from beginner to advanced—to learn from and help each other excel in the world of code.
 
@@ -21,7 +21,7 @@ We encourage you to leverage your community of peers to get the most out of your
 
 
 -------------------------------
-##Considerations    %aa002
+## Considerations    %aa002
 
 Facebook as a platform only provides a stream of posts. As such, the number of posts per day should be limited in order to keep the quality and purpose of those posts which there are as high as possible. Single purpose content posts should probably be aggregated into periodic posts by category. An example could be posts on a single programming topic or questions about specific problems. A subreddit may be useful for this purpose. 
 
@@ -31,18 +31,18 @@ Given the nature of Facebook, questions about solving specific problems related 
 
 
 -------------------------------
-##Documents        %aa003
+## Documents        %aa003
 
 Community of Purpose:
 https://en.wikipedia.org/wiki/Community_of_purpose
 
 -------------------------------
-##Moderators      %aa004
+## Moderators      %aa004
 
--Michael Bragg
--Hilel Gross
--Sandip Sen
--Shayne Whitehill
--Natalie Kaehr
--Mitchell McKinnon
--Andrew DeCotiis-Mauro
+- Michael Bragg
+- Hilel Gross
+- Sandip Sen
+- Shayne Whitehill
+- Natalie Kaehr
+- Mitchell McKinnon
+- Andrew DeCotiis-Mauro
